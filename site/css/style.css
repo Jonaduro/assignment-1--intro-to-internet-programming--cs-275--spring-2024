@@ -1,0 +1,56 @@
+body, h1, ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: rgb(12, 11, 11);
+    line-height: 1.5;
+  }
+  
+  ul {
+    margin-left: 40px;
+  }
+  
+  li {
+    list-style-type: disc;
+    margin: 12px 0;
+  }
+  
+  h1 {
+    font-weight: bold;
+    font-size: 40px;
+  }
+  
+ 
+  body {
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  h1 {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+
+  body {
+    color: #0C0B0B; 
+    background-color: #F4F4F4; 
+  }
+  
+  h1 {
+    color: #333333; 
+  }
+  
+  ul {
+    color: #0C0B0B; 
+  }
+  
+
+  body {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+  }
+  
